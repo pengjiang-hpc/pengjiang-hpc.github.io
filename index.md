@@ -108,7 +108,7 @@ Peng Jiang, Linchuan Chen, Gagan Agrawal \
 *ICS 2016*
 
 
-[Exploiting Recent SIMD Architectural Advances for Irregular Applications](/papers/chen2016.pdf){:target="_blank"} \
+[Exploiting Recent SIMD Architectural Advances for Irregular Applications](/papers/chen2016.pdf){:target="_blank" rel="noopener"} \
 Linchuan Chen, Peng Jiang, Gagan Agrawal \
 *CGO 2016*
 
