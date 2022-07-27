@@ -11,6 +11,7 @@ I am an assistant professor in the Computer Science Department at the [Universit
 * Graph processing systems
 * Machine learning
 
+<span style="color:red">I am looking for self-motivated Ph.D. students. Please email me if you are interested in systems.</span>
 ___
 
 ## Teaching
@@ -33,7 +34,7 @@ ___
 
 ## Publications
 
-**My students are underlined. ** \
+**My students are underlined.** \
 **Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab).**
 
 #### Recent Papers:
