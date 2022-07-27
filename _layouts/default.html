@@ -21,9 +21,14 @@
         {% endif %}
         
         <h1>{{ site.title }}</h1> 
-        <br>{{ site.position }}
-        <br>{{ site.affiliation }}
-        <br>{{ site.email }}
+        <br>{{ site.position }} @ {{ site.affiliation }}
+        {% if site.office %}
+        <br>Office: {{ site.office }}
+        {% endif %}
+        <br>Email: {{ site.email }}
+        {% if site.phone %}
+        <br>Phone: {{site.phone}}
+        {% endif %}
 
       </header>
       <section>
