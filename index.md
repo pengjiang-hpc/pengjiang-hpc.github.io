@@ -33,7 +33,7 @@ ___
 
 ## Publications
 
-**Note: My students are underlined. ** \
+**My students are underlined. ** \
 **Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab).**
 
 #### Recent Papers:
