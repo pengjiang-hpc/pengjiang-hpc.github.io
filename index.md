@@ -11,7 +11,7 @@ I am an assistant professor in the Computer Science Department at the [Universit
 * Graph processing systems
 * Machine learning
 
-<span style="color:red">I am looking for self-motivated Ph.D. students. Please email me if you are interested in systems.</span>
+*I am looking for self-motivated Ph.D. students. Please email me if you are interested in systems.*
 ___
 
 ## Teaching
