@@ -1,8 +1,6 @@
 title: Peng Jiang
 logo: /assets/img/logo.png
-description: "Assistant Professor @ University of Iowa. \n sss"
-google_analytics:
+position: Assistant Professor
+affiliation: University of Iowa
+email: peng-jiang@uiowa.edu
 theme: jekyll-theme-minimal
-
-github:
-  is_user_page: false
