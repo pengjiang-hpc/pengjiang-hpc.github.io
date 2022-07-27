@@ -17,13 +17,15 @@ I am an assistant professor in the Computer Science Department at the [Universit
 Note: my students are underlined.
 
 ## Recent Papers:
-SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation
-Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu
-*PACT 2022 (to appear)*
+SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
+Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
+*PACT 2022 (to appear)* 
 
-Yihua Wei, Peng Jiang
+
 STMatch: Accelerating Graph Pattern Matching On GPU with Stack-Based Loop Optimization
-Proceedings of the 2022 International Conference for High Performance Computing, Networking, Storage and Analysis
+Yihua Wei, Peng Jiang \
+*SC 2022 (to appear)*
+
 ICS'22
 Shihui Song, Peng Jiang
 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs
