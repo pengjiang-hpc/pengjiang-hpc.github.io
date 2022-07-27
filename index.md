@@ -103,3 +103,12 @@ Peng Jiang, Linchuan Chen, Gagan Agrawal \
 Exploiting Recent SIMD Architectural Advances for Irregular Applications \
 Linchuan Chen, Peng Jiang, Gagan Agrawal \
 *CGO 2016*
+
+
+# Graduate Advisees
+* Shihui Song (PhD student, joined in 2021)
+* Yihua Wei (PhD student, joined in 2021)
+* Linfeng He (MS student, joined in 2020)
+
+## Alumni
+* Masuma Akter Rumi (MS, Spring 2021)
