@@ -11,12 +11,14 @@ I am an assistant professor in the Computer Science Department at the [Universit
 * Graph processing systems
 * Machine learning
 
+___
 
 ## Teaching
 * CS3620: Operating Systems
 * CS4700: High Performance and Parallel Computing
 * CS4980: Topics on High Performance Computing
 
+___
 
 ## Publications
 
@@ -110,6 +112,7 @@ Exploiting Recent SIMD Architectural Advances for Irregular Applications \
 Linchuan Chen, Peng Jiang, Gagan Agrawal \
 *CGO 2016*
 
+___
 
 ## Research Group
 * Shihui Song (PhD student starting Fall 2021)
