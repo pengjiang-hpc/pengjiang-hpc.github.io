@@ -2,17 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
+I am an assistant professor in the [Computer Science Department](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/). I received my Ph.D. from the [Ohio State University](https://www.osu.edu/) under the supervision of [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en). I received an M.S. in Computer Science from [Chinese Academy of Science](https://english.cas.cn/) and a B.S. from [Xidian University, Xi'an, China](https://en.xidian.edu.cn/).
 
-[Link to another page](./another-page.html).
+## Research interests:
+* Compiler and runtime systems
+* Parallel computing
+* Graph processing systems
+* Machine learning
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
