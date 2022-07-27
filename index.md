@@ -36,35 +36,35 @@ STMatch: Accelerating Graph Pattern Matching On GPU with Stack-Based Loop Optimi
 
 
 
-Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs \
+[Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs](papers/song2022.pdf){:target="_blank" rel="noopener"} \
 <u>Shihui Song</u>, Peng Jiang\
 *ICS 2022, PPoPP Poster 2022*
 
 
 
-Scaling and Selecting GPU Methods for All Pairs Shortest Paths Computations \
+[Scaling and Selecting GPU Methods for All Pairs Shortest Paths Computations](papers/xia2022.pdf){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *IPDPS 2022*
 
 
-Scaling Sparse Matrix Multiplication on CPU-GPU Nodes \
+[Scaling Sparse Matrix Multiplication on CPU-GPU Nodes](papers/xia2021.pdf){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *IPDPS 2021*
 
-Exploring PIM Architecture for High-Performance Graph Pattern Mining \
+[Exploring PIM Architecture for High-Performance Graph Pattern Mining](papers/su2021.pdf){:target="_blank" rel="noopener"} \
 Jiya Su, <u>Linfeng He</u>, Peng Jiang, Rujia Wang \
 *CAL 2021*
 
-Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning \
+[Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning](papers/rumi2020.pdf){:target="_blank" rel="noopener"} \
 <u>Masuma Akter Rumi</u>, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
 *PACT 2020*
 
 
-A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs \
+[A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs](papers/jiang2020.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Changwan Hong, Gagan Agrawal \
 *PPoPP 2020*
 
-Scaling out Speculative Execution of Finite-State Machines with Parallel Merge \
+[Scaling out Speculative Execution of Finite-State Machines with Parallel Merge](papers/xia2020.pdf){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal \
 *PPoPP 2020*
 
