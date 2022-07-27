@@ -22,7 +22,7 @@ ___
 
 ## Publications
 
-Note: my students are underlined.
+<u>Note: my students are underlined.</u>
 
 #### Recent Papers:
 SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
