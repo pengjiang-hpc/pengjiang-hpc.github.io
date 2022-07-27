@@ -32,29 +32,35 @@ Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GP
 Shihui Song, Peng Jiang\
 *ICS 2022, PPoPP Poster 2022*
 
-IPDPS'22
-Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath
-Scaling and Selecting GPU Methods for All Pairs Shortest Paths Computations
-The 36th IEEE International Parallel and Distributed Processing Symposium
-IPDPS'21
-Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath
-Scaling Sparse Matrix Multiplication on CPU-GPU Nodes
-The 35th IEEE International Parallel and Distributed Processing Symposium
-CAL'21
-Jiya Su, Linfeng He, Peng Jiang, Rujia Wang
-Exploring PIM Architecture for High-Performance Graph Pattern Mining
-IEEE Computer Architecture Letters
-PACT'20
-Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang
-Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning
-The 29th International Conference on Parallel Architectures and Compilation Techniques
-PPoPP'20	Peng Jiang, Changwan Hong, Gagan Agrawal
-A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs
-Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
-PPoPP'20	Yang Xia, Peng Jiang, Gagan Agrawal
-Scaling out Speculative Execution of Finite-State Machines with Parallel Merge
-Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
-Papers Between 2015 and 2019:
+
+
+Scaling and Selecting GPU Methods for All Pairs Shortest Paths Computations \
+Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
+*IPDPS 2022*
+
+
+Scaling Sparse Matrix Multiplication on CPU-GPU Nodes \
+Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
+*IPDPS 2021*
+
+Exploring PIM Architecture for High-Performance Graph Pattern Mining \
+Jiya Su, Linfeng He, Peng Jiang, Rujia Wang \
+*CAL 2021*
+
+Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning \
+Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
+*PACT 2020*
+
+
+A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs \
+Peng Jiang, Changwan Hong, Gagan Agrawal \
+*PPoPP 2020*
+
+Scaling out Speculative Execution of Finite-State Machines with Parallel Merge \
+Yang Xia, Peng Jiang, Gagan Agrawal \
+*PPoPP 2020*
+
+## Papers Between 2015 and 2019:
 PACT'19
 Gangyi Zhu, Peng Jiang, Gagan Agrawal
 A Methodology for Characterizing Sparse Datasets and Its Application to SIMD Performance Prediction
