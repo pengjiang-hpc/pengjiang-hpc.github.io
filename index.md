@@ -69,32 +69,32 @@ Yang Xia, Peng Jiang, Gagan Agrawal \
 *PPoPP 2020*
 
 #### Papers Before 2020:
-A Methodology for Characterizing Sparse Datasets and Its Application to SIMD Performance Prediction \
+[A Methodology for Characterizing Sparse Datasets and Its Application to SIMD Performance Prediction](papers/zhu2019.pdf){:target="_blank" rel="noopener"} \
 Gangyi Zhu, Peng Jiang, Gagan Agrawal \
 *PACT 2019*
 
 
-Enabling prefix sum parallelism pattern for recurrences with principled function reconstruction \
+[Enabling prefix sum parallelism pattern for recurrences with principled function reconstruction](papers/xia2019enabling.pdf){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal \
 *CC 2019*
 
 
-A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication \
+[A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication](papers/jiang2018linear.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Gagan Agrawal \
 *NeurIPS 2018*
 
 
-Revealing Parallel Scans and Reductions in Recurrences through Function Reconstruction \
+[Revealing Parallel Scans and Reductions in Recurrences through Function Reconstruction](papers/jiang2018revealing.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Linchuan Chen, Gagan Agrawal \
 *PACT 2018, PPoPP Poster 2018*
 
 
-Conflict-Free Vectorization of Associative Irregular Application with Recent SIMD Architectural Advances \
+[Conflict-Free Vectorization of Associative Irregular Application with Recent SIMD Architectural Advances](papers/jiang2017conflict.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Gagan Agrawal \
 *CGO 2017*
 
 
-Efficient SIMD and MIMD Parallelization of Hash-based Aggregation by Conflict Mitigation \
+[Efficient SIMD and MIMD Parallelization of Hash-based Aggregation by Conflict Mitigation](papers/jiang2017efficient.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Gagan Agrawal \
 *ICS 2017*
 
