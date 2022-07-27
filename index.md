@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# About Me
+## About Me
 I am an assistant professor in the Computer Science Department at the [University of Iowa](https://cs.uiowa.edu/). I earned my Ph.D. degree from the [Ohio State University](https://cs.osu.edu/) under the supervision of [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en). I received an M.S. in Computer Science from [Chinese Academy of Science](https://english.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
 
-## Research interests:
+### Research interests:
 * Compiler and runtime systems
 * Parallel computing
 * Graph processing systems
 * Machine learning
 
 
-# Publications
+## Publications
 
 Note: my students are underlined.
 
-## Recent Papers:
+### Recent Papers:
 SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
 Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
 *PACT 2022 (to appear)* 
@@ -60,7 +60,7 @@ Scaling out Speculative Execution of Finite-State Machines with Parallel Merge \
 Yang Xia, Peng Jiang, Gagan Agrawal \
 *PPoPP 2020*
 
-## Papers Before 2020:
+### Papers Before 2020:
 A Methodology for Characterizing Sparse Datasets and Its Application to SIMD Performance Prediction \
 Gangyi Zhu, Peng Jiang, Gagan Agrawal \
 *PACT 2019*
@@ -105,10 +105,10 @@ Linchuan Chen, Peng Jiang, Gagan Agrawal \
 *CGO 2016*
 
 
-# Graduate Advisees
+## Research Group
 * Shihui Song (PhD student, joined in 2021)
 * Yihua Wei (PhD student, joined in 2021)
 * Linfeng He (MS student, joined in 2020)
 
-## Alumni
+### Alumni
 * Masuma Akter Rumi (MS, Spring 2021)
