@@ -66,7 +66,7 @@ Gangyi Zhu, Peng Jiang, Gagan Agrawal \
 *PACT 2019*
 
 
-Enabling prefix sum parallelism pattern for recurrences with principled function reconstruction \ 
+Enabling prefix sum parallelism pattern for recurrences with principled function reconstruction \
 Yang Xia, Peng Jiang, Gagan Agrawal \
 *CC 2019*
 
@@ -92,7 +92,7 @@ Peng Jiang, Gagan Agrawal \
 
 
 Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation \
-Peng Jiang, Gagan Agrawal \ 
+Peng Jiang, Gagan Agrawal \
 *PPoPP 2017*
 
 Reusing Data Reorganization for Efficient SIMD Parallelization of Adaptive Irregular Applications \
