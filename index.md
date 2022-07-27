@@ -115,10 +115,10 @@ Linchuan Chen, Peng Jiang, Gagan Agrawal \
 ___
 
 ## Research Group
-* Shihui Song (PhD student starting Fall 2021)
-* Yihua Wei (PhD student starting Fall 2021)
-* Linfeng He (PhD student starting Fall 2022)
-* Lihan Hu (PhD student starting Fall 2022)
+* Shihui Song (Ph.D. student starting Fall 2021)
+* Yihua Wei (Ph.D. student starting Fall 2021)
+* Linfeng He (Ph.D. student starting Fall 2022)
+* Lihan Hu (Ph.D. student starting Fall 2022)
 
 #### Alumni
-* Masuma Akter Rumi (MS 2021)
+* Masuma Akter Rumi (M.S. 2021)
