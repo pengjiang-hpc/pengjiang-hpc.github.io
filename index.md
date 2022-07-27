@@ -20,9 +20,20 @@ ___
 
 ___
 
+## Research Group
+* Shihui Song (Ph.D. student starting Fall 2021)
+* Yihua Wei (Ph.D. student starting Fall 2021)
+* Linfeng He (Ph.D. student starting Fall 2022)
+* Lihan Hu (Ph.D. student starting Fall 2022)
+
+#### Alumni
+* Masuma Akter Rumi (M.S. 2021)
+
+___
+
 ## Publications
 
-*Note: <u>My students are underlined</u>. Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab)*
+*Note: My students are underlined. Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab)*
 
 #### Recent Papers:
 SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
@@ -112,13 +123,3 @@ Peng Jiang, Linchuan Chen, Gagan Agrawal \
 Linchuan Chen, Peng Jiang, Gagan Agrawal \
 *CGO 2016*
 
-___
-
-## Research Group
-* Shihui Song (Ph.D. student starting Fall 2021)
-* Yihua Wei (Ph.D. student starting Fall 2021)
-* Linfeng He (Ph.D. student starting Fall 2022)
-* Lihan Hu (Ph.D. student starting Fall 2022)
-
-#### Alumni
-* Masuma Akter Rumi (M.S. 2021)
