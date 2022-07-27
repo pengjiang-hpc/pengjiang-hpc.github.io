@@ -99,11 +99,11 @@ Peng Jiang, Gagan Agrawal \
 *ICS 2017*
 
 
-Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation \
+[Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation](/papers/jiang2017combining.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Gagan Agrawal \
 *PPoPP 2017*
 
-Reusing Data Reorganization for Efficient SIMD Parallelization of Adaptive Irregular Applications \
+[Reusing Data Reorganization for Efficient SIMD Parallelization of Adaptive Irregular Applications](/papers/jiang2016reusing.pdf){:target="_blank" rel="noopener"} \
 Peng Jiang, Linchuan Chen, Gagan Agrawal \
 *ICS 2016*
 
