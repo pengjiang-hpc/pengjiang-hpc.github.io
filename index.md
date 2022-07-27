@@ -21,8 +21,8 @@ ___
 ___
 
 ## Publications
-
-<u>Note: my students are underlined.</u>
+<u>Note: my students are underlined.</u> \
+Some of the source code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab)
 
 #### Recent Papers:
 SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
