@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am an assistant professor in the [Computer Science Department](https://cs.uiowa.edu/) at the [University of Iowa](https://uiowa.edu/). I received my Ph.D. from the [Ohio State University](https://www.osu.edu/) under the supervision of [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en). I received an M.S. in Computer Science from [Chinese Academy of Science](https://english.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
+I am an assistant professor in the Computer Science Department at the [University of Iowa](https://cs.uiowa.edu/). I earned my Ph.D. degree from the [Ohio State University](https://cs.osu.edu/) under the supervision of [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en). I received an M.S. in Computer Science from [Chinese Academy of Science](https://english.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
 
 ## Research interests:
 * Compiler and runtime systems
@@ -12,110 +12,73 @@ I am an assistant professor in the [Computer Science Department](https://cs.uiow
 * Machine learning
 
 
-## Header 2
+# Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Note: my students are underlined.
 
-### Header 3
+## Recent Papers:
+SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation
+Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu
+*PACT 2022 (to appear)*
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Yihua Wei, Peng Jiang
+STMatch: Accelerating Graph Pattern Matching On GPU with Stack-Based Loop Optimization
+Proceedings of the 2022 International Conference for High Performance Computing, Networking, Storage and Analysis
+ICS'22
+Shihui Song, Peng Jiang
+Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs
+Proceedings of the 2022 International Conference on Supercomputing
+IPDPS'22
+Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath
+Scaling and Selecting GPU Methods for All Pairs Shortest Paths Computations
+The 36th IEEE International Parallel and Distributed Processing Symposium
+IPDPS'21
+Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath
+Scaling Sparse Matrix Multiplication on CPU-GPU Nodes
+The 35th IEEE International Parallel and Distributed Processing Symposium
+CAL'21
+Jiya Su, Linfeng He, Peng Jiang, Rujia Wang
+Exploring PIM Architecture for High-Performance Graph Pattern Mining
+IEEE Computer Architecture Letters
+PACT'20
+Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang
+Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning
+The 29th International Conference on Parallel Architectures and Compilation Techniques
+PPoPP'20	Peng Jiang, Changwan Hong, Gagan Agrawal
+A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs
+Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+PPoPP'20	Yang Xia, Peng Jiang, Gagan Agrawal
+Scaling out Speculative Execution of Finite-State Machines with Parallel Merge
+Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+Papers Between 2015 and 2019:
+PACT'19
+Gangyi Zhu, Peng Jiang, Gagan Agrawal
+A Methodology for Characterizing Sparse Datasets and Its Application to SIMD Performance Prediction
+The 28th International Conference on Parallel Architectures and Compilation Techniques
+CC'19
+Yang Xia, Peng Jiang, Gagan Agrawal
+Enabling prefix sum parallelism pattern for recurrences with principled function reconstruction
+Proceedings of the 28th International Conference on Compiler Construction
+NeurIPS'18
+Peng Jiang, Gagan Agrawal
+A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication
+Thirty-second Conference on Neural Information Processing Systems
+PACT'18
+Peng Jiang, Linchuan Chen, Gagan Agrawal
+Revealing Parallel Scans and Reductions in Recurrences through Function Reconstruction
+The 27th International Conference on Parallel Architectures and Compilation Techniques
+CGO'18	Peng Jiang, Gagan Agrawal
+Conflict-Free Vectorization of Associative Irregular Application with Recent SIMD Architectural Advances
+Proceedings of the 2018 International Symposium on Code Generation and Optimization
+ICS'17	Peng Jiang, Gagan Agrawal
+Efficient SIMD and MIMD Parallelization of Hash-based Aggregation by Conflict Mitigation
+Proceedings of the 2017 International Conference on Supercomputing
+PPoPP'17	Peng Jiang, Gagan Agrawal
+Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation
+Proceedings of the 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+ICS'16	Peng Jiang, Linchuan Chen, Gagan Agrawal
+Reusing Data Reorganization for Efficient SIMD Parallelization of Adaptive Irregular Applications
+Proceedings of the 2016 International Conference on Supercomputing
+CGO'16	Linchuan Chen, Peng Jiang, Gagan Agrawal
+Exploiting Recent SIMD Architectural Advances for Irregular Applications
+Proceedings of the 2016 International Symposium on Code Generation and Optimization
