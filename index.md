@@ -22,14 +22,16 @@ Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
 *PACT 2022 (to appear)* 
 
 
-STMatch: Accelerating Graph Pattern Matching On GPU with Stack-Based Loop Optimization
+STMatch: Accelerating Graph Pattern Matching On GPU with Stack-Based Loop Optimization \
 Yihua Wei, Peng Jiang \
 *SC 2022 (to appear)*
 
-ICS'22
-Shihui Song, Peng Jiang
-Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs
-Proceedings of the 2022 International Conference on Supercomputing
+
+
+Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs \
+Shihui Song, Peng Jiang\
+*ICS 2022, PPoPP Poster 2022*
+
 IPDPS'22
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath
 Scaling and Selecting GPU Methods for All Pairs Shortest Paths Computations
