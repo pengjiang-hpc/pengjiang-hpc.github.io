@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I am an assistant professor in the Computer Science Department at the [University of Iowa](https://cs.uiowa.edu/). I earned my Ph.D. degree from the [Ohio State University](https://cse.osu.edu/) under the supervision of [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en). I received an M.S. in Computer Science from [Chinese Academy of Science](https://english.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
+I am an assistant professor in the Computer Science Department at the [University of Iowa](https://cs.uiowa.edu/). I earned my Ph.D. degree from the [Ohio State University](https://cse.osu.edu/) under the supervision of [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en). I received an M.S. in Computer Science from [Chinese Academy of Science](http://english.ict.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
 
 #### Research interests:
 * Compiler and runtime systems
