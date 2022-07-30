@@ -5,5 +5,6 @@ affiliation: University of Iowa
 office: 201G MacLean Hall, Iowa City
 email: peng-jiang@uiowa.edu
 phone: (319)467-1690
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+plugins: jekyll-remote-theme
 google_analytics: G-3P9BSMPM6L
