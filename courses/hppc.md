@@ -4,7 +4,7 @@ layout: blog
 
 # High-Performance and Parallel Computing
 
-## Read list
+## Reading list
 
 * Non-affine Extensions to Polyhedral Code Generation
 
