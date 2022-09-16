@@ -39,6 +39,11 @@ ___
 **Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab).**
 
 #### Recent Papers:
+
+Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training \
+Peng Jiang, <u>Lihan Hu</u>, <u>Shihui Song</u> \
+*NeurIPS 2022 (to appear)*
+
 SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
 Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
 *PACT 2022 (to appear)* 
