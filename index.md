@@ -49,7 +49,7 @@ Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
 *PACT 2022 (to appear)* 
 
 
-STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization \
+[STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization](papers/sc22.pdf){:target="_blank" rel="noopener"} \
 <u>Yihua Wei</u>, Peng Jiang \
 *SC 2022 (to appear)*
 
