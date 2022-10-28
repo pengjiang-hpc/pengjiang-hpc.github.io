@@ -44,9 +44,9 @@ Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Spar
 Peng Jiang, <u>Lihan Hu</u>, <u>Shihui Song</u> \
 *NeurIPS 2022 (to appear)*
 
-SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation \
+[SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation](papers/pact22.pdf){:target="_blank" rel="noopener"}  \
 Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
-*PACT 2022 (to appear)* 
+*PACT 2022* 
 
 
 [STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization](papers/sc22.pdf){:target="_blank" rel="noopener"} \
