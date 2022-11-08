@@ -38,11 +38,16 @@ ___
 **My students are underlined.** \
 **Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab).**
 
-#### Recent Papers:
+### 2023:
+End-to-End LU Factorization of Large Matrices on GPUs \
+Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
+*PPoPP 2023 (to appear)*
 
-Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training \
+### 2022: 
+
+[Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training](papers/nips22.pdf){:target="_blank" rel="noopener"}  \
 Peng Jiang, <u>Lihan Hu</u>, <u>Shihui Song</u> \
-*NeurIPS 2022 (to appear)*
+*NeurIPS 2022*
 
 [SampleMine: A Framework for Applying Random Sampling to Subgraph Pattern Mining through Loop Perforation](papers/pact22.pdf){:target="_blank" rel="noopener"}  \
 Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
@@ -65,6 +70,7 @@ Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *IPDPS 2022*
 
+### 2021:
 
 [Scaling Sparse Matrix Multiplication on CPU-GPU Nodes](papers/xia2021.pdf){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
@@ -73,6 +79,8 @@ Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 [Exploring PIM Architecture for High-Performance Graph Pattern Mining](papers/su2021.pdf){:target="_blank" rel="noopener"} \
 Jiya Su, <u>Linfeng He</u>, Peng Jiang, Rujia Wang \
 *CAL 2021*
+
+### 2020:
 
 [Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning](papers/rumi2020.pdf){:target="_blank" rel="noopener"} \
 <u>Masuma Akter Rumi</u>, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
@@ -87,7 +95,7 @@ Peng Jiang, Changwan Hong, Gagan Agrawal \
 Yang Xia, Peng Jiang, Gagan Agrawal \
 *PPoPP 2020*
 
-#### Papers Before 2020:
+#### Before 2020:
 [A Methodology for Characterizing Sparse Datasets and Its Application to SIMD Performance Prediction](papers/zhu2019.pdf){:target="_blank" rel="noopener"} \
 Gangyi Zhu, Peng Jiang, Gagan Agrawal \
 *PACT 2019*
