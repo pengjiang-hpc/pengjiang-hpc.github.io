@@ -25,7 +25,6 @@ ___
 ## Research Group
 * Shihui Song (Ph.D. student starting Fall 2021)
 * Yihua Wei (Ph.D. student starting Fall 2021)
-* Linfeng He (Ph.D. student starting Fall 2022)
 * Lihan Hu (Ph.D. student starting Fall 2022)
 
 #### Alumni
