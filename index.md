@@ -76,7 +76,7 @@ Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *IPDPS 2021*
 
 [Exploring PIM Architecture for High-Performance Graph Pattern Mining](papers/su2021.pdf){:target="_blank" rel="noopener"} \
-Jiya Su, <u>Linfeng He</u>, Peng Jiang, Rujia Wang \
+Jiya Su, Linfeng He, Peng Jiang, Rujia Wang \
 *CAL 2021*
 
 #### 2020:
