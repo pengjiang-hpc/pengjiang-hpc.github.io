@@ -38,7 +38,7 @@ ___
 **Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab).**
 
 #### 2023:
-End-to-End LU Factorization of Large Matrices on GPUs \
+[End-to-End LU Factorization of Large Matrices on GPUs](https://dl.acm.org/doi/pdf/10.1145/3572848.3577486){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *PPoPP 2023*
 
