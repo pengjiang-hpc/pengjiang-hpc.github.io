@@ -18,7 +18,7 @@ ___
 ## Teaching
 * CS3620: Operating Systems
 * CS4700: High Performance and Parallel Computing
-* CS4980: Topics on High-Performance Computing [Fall2023](https://jeweled-daffodil-5da.notion.site/CS4980-Fall2023-Topics-in-Computer-Science-580d26f0b11c465684ae76b1bd2e8014)
+* CS4980: [Topics on High-Performance Computing](https://jeweled-daffodil-5da.notion.site/CS4980-Fall2023-Topics-in-Computer-Science-580d26f0b11c465684ae76b1bd2e8014)
 
 ___
 
