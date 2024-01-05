@@ -3,15 +3,7 @@ layout: default
 ---
 
 ## About Me
-I am an assistant professor in the Computer Science Department at the [University of Iowa](https://cs.uiowa.edu/). I earned my Ph.D. degree from the [Ohio State University](https://cse.osu.edu/) under the supervision of [Gagan Agrawal](https://www.linkedin.com/in/gaganagrawal2). I received an M.S. in Computer Science from [Chinese Academy of Science](http://english.ict.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
-
-#### Research interests:
-* Compiler and runtime optimization for high-performance computing
-* Parallel algorithms
-* Graph processing systems
-* Machine learning
-
-*I am looking for self-motivated Ph.D. students. Please email me if you are interested in systems.*
+I am an assistant professor in the Computer Science Department at the [University of Iowa](https://cs.uiowa.edu/). I earned my Ph.D. degree from the [Ohio State University](https://cse.osu.edu/) under the supervision of [Gagan Agrawal](https://www.linkedin.com/in/gaganagrawal2). I received an M.S. in Computer Science from [Chinese Academy of Science](http://english.ict.cas.cn/) and a B.S. from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China. I am generally interested in high-performance computing, systems, and machine learning. I am a recipient of the NSF CAREER award for research in compiler and runtime support for data-intensive applications. 
 
 ___
 
