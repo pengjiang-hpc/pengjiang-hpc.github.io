@@ -22,20 +22,10 @@ ___
 
 ___
 
-## Research Group
-* Shihui Song (Ph.D. student starting Fall 2021)
-* Yihua Wei (Ph.D. student starting Fall 2021)
-* Lihan Hu (Ph.D. student starting Fall 2022)
-
-#### Alumni
-* Masuma Akter Rumi (M.S. 2021)
-
-___
-
 ## Publications
 
 **My students are underlined.** \
-**Code can be found on [my group's GitHub page](https://github.com/HPC-Research-Lab).**
+**More info about research projects can be found on [my group's GitHub page](https://idislab.github.io/).**
 
 #### 2023:
 [End-to-End LU Factorization of Large Matrices on GPUs](https://dl.acm.org/doi/pdf/10.1145/3572848.3577486){:target="_blank" rel="noopener"} \
