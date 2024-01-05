@@ -19,12 +19,10 @@ ___
 **My students are underlined.** \
 **More info about research projects can be found on [my group's page](https://idislab.github.io/).**
 
-#### 2023:
 [End-to-End LU Factorization of Large Matrices on GPUs](https://dl.acm.org/doi/pdf/10.1145/3572848.3577486){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *PPoPP 2023*
 
-#### 2022: 
 
 [Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training](papers/nips22.pdf){:target="_blank" rel="noopener"}  \
 Peng Jiang, <u>Lihan Hu</u>, <u>Shihui Song</u> \
@@ -51,7 +49,6 @@ Peng Jiang, <u>Yihua Wei</u>, Jiya Su, Rujia Wang, Bo Wu \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 *IPDPS 2022*
 
-#### 2021:
 
 [Scaling Sparse Matrix Multiplication on CPU-GPU Nodes](papers/xia2021.pdf){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
@@ -61,7 +58,6 @@ Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
 Jiya Su, Linfeng He, Peng Jiang, Rujia Wang \
 *CAL 2021*
 
-#### 2020:
 
 [Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning](papers/rumi2020.pdf){:target="_blank" rel="noopener"} \
 <u>Masuma Akter Rumi</u>, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
