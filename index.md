@@ -16,10 +16,12 @@ ___
 
 ___
 
-## Publications
+## Research
 
-**My students are underlined.** \
 **More info about research projects can be found on [my group's page](https://idislab.github.io/).**
+
+### Publications
+**My students are underlined.** \
 
 [End-to-End LU Factorization of Large Matrices on GPUs](https://dl.acm.org/doi/pdf/10.1145/3572848.3577486){:target="_blank" rel="noopener"} \
 Yang Xia, Peng Jiang, Gagan Agrawal, Rajiv Ramnath \
