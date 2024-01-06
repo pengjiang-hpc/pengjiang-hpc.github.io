@@ -17,7 +17,7 @@ ___
 ___
 
 ## Research
-<span style="color:black">*My students are underlined. More info about research projects can be found on* [my group's page](https://idislab.github.io/).</span>
+*My students are underlined. More info about research projects can be found on [my group's page](https://idislab.github.io/).*
 
 ### Publications
 
