@@ -19,11 +19,11 @@ ___
 ## Research
 *More info about research projects can be found on [my group's page](https://idislab.github.io/).*
 
-### Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=CxfXT14AAAAJ&hl=en))
+### Selected Publications ([Full List](https://scholar.google.com/citations?user=CxfXT14AAAAJ&hl=en))
 
 
-<span style="color:#428bca">Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training</span>  \
-Peng Jiang, Lihan Hu, Shihui Song \
+Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training  \
+*Peng Jiang, Lihan Hu, Shihui Song* \
 *NeurIPS 2022*
 
 
