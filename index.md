@@ -27,28 +27,28 @@ Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Spar
 *NeurIPS 2022*
 
 
-<span style="color:#428bca">STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization</span> \
-Yihua Wei, Peng Jiang \
+STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization \
+*Yihua Wei, Peng Jiang* \
 *SC 2022*
 
 
 
-<span style="color:#428bca">Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs</span>  \
-Shihui Song, Peng Jiang\
+Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs \
+*Shihui Song, Peng Jiang* \
 *ICS 2022*
 
 
-<span style="color:#428bca">Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning</span>  \
-Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
+Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning \
+*Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang* \
 *PACT 2020*
 
 
-<span style="color:#428bca">A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs</span>  \
-Peng Jiang, Changwan Hong, Gagan Agrawal \
+A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs  \
+*Peng Jiang, Changwan Hong, Gagan Agrawal* \
 *PPoPP 2020*
 
 
-<span style="color:#428bca">A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication</span>  \
-Peng Jiang, Gagan Agrawal \
+A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication  \
+*Peng Jiang, Gagan Agrawal* \
 *NeurIPS 2018*
 
