@@ -22,9 +22,7 @@ ___
 ### Selected Publications ([Full List](https://scholar.google.com/citations?user=CxfXT14AAAAJ&hl=en))
 
 
-Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training  \
-*Peng Jiang, Lihan Hu, Shihui Song* \
-*NeurIPS 2022*
+Peng Jiang, Lihan Hu, Shihui Song. *Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training.* NeurIPS 2022
 
 
 STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization \
