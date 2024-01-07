@@ -17,7 +17,7 @@ ___
 ___
 
 ## Research
-*More info about research projects can be found on [my group's page](https://idislab.github.io/).*
+More info about research projects can be found on [my group's page](https://idislab.github.io/).
 
 ### Selected Publications ([Full List](https://idislab.github.io/publications.html))
 
