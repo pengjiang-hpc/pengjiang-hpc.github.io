@@ -19,7 +19,7 @@ ___
 ## Research
 *More info about research projects can be found on [my group's page](https://idislab.github.io/).*
 
-### Selected Publications ([Full List](https://scholar.google.com/citations?user=CxfXT14AAAAJ&hl=en))
+### Selected Publications ([Full List](https://idislab.github.io/publications.html))
 
 
 Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training \
