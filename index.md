@@ -23,27 +23,27 @@ More info about research projects can be found on [my group's page](https://idis
 
 
 Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training. *NeurIPS 2022* \
-Peng Jiang, Lihan Hu, Shihui Song \
+Peng Jiang, Lihan Hu, Shihui Song 
 
 
 STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization. *SC 2022* \
-Yihua Wei, Peng Jiang \
+Yihua Wei, Peng Jiang 
 
 
 
 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs. *ICS 2022* \
-Shihui Song, Peng Jiang \
+Shihui Song, Peng Jiang 
 
 
 Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning. *PACT 2020* \
-Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
+Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang 
 
 
 A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs. *PPoPP 2020*  \
-Peng Jiang, Changwan Hong, Gagan Agrawal \
+Peng Jiang, Changwan Hong, Gagan Agrawal 
 
 
 A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication. *NeurIPS 2018*  \
-Peng Jiang, Gagan Agrawal \
+Peng Jiang, Gagan Agrawal 
 
 
