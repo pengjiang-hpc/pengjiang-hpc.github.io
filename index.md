@@ -22,33 +22,28 @@ More info about research projects can be found on [my group's page](https://idis
 ### Selected Publications ([Full List](https://idislab.github.io/publications.html))
 
 
-Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training \
-*Peng Jiang, Lihan Hu, Shihui Song* \
-*NeurIPS 2022*
+Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training. *NeurIPS 2022* \
+Peng Jiang, Lihan Hu, Shihui Song \
 
 
-STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization \
-*Yihua Wei, Peng Jiang* \
-*SC 2022*
+STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization. *SC 2022* \
+Yihua Wei, Peng Jiang \
 
 
 
-Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs \
-*Shihui Song, Peng Jiang* \
-*ICS 2022*
+Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs. *ICS 2022* \
+Shihui Song, Peng Jiang \
 
 
-Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning \
-*Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang* \
-*PACT 2020*
+Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning. *PACT 2020* \
+Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang \
 
 
-A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs  \
-*Peng Jiang, Changwan Hong, Gagan Agrawal* \
-*PPoPP 2020*
+A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs. *PPoPP 2020*  \
+Peng Jiang, Changwan Hong, Gagan Agrawal \
 
 
-A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication  \
-*Peng Jiang, Gagan Agrawal* \
-*NeurIPS 2018*
+A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication. *NeurIPS 2018*  \
+Peng Jiang, Gagan Agrawal \
+
 
