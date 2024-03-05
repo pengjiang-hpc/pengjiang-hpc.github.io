@@ -21,6 +21,9 @@ More info about research projects can be found on [my group's page](https://idis
 
 ### Selected Publications ([Full List](https://idislab.github.io/publications.html))
 
+cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding. *IPDPS 2024.* \
+Lihan Hu, Jing Li, and Peng Jiang
+
 
 Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training. *NeurIPS 2022.* \
 Peng Jiang, Lihan Hu, Shihui Song 
