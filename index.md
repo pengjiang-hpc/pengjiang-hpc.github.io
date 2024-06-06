@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I am an Assistant Professor in the Computer Science Department at the University of Iowa. My research interests generally lie in the areas of high-performance computing, systems, and machine learning. I received the NSF CAREER Award for research in compiler and runtime support for randomized data-intensive applications on heterogeneous hardware.  
+I am an Assistant Professor in the Computer Science Department at the University of Iowa. My research interests generally lie in the areas of high-performance computing, systems, and machine learning. I received the NSF CAREER Award for research in compiler and runtime support for data-intensive applications on heterogeneous hardware.  
 
 I earned my Ph.D. from the Ohio State University under the supervision of Dr. Gagan Agrawal. I received an M.S. in Computer Science from the Chinese Academy of Science and a B.S. from Xidian University, Xi'an, China. 
 
