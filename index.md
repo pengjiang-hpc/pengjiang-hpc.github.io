@@ -25,21 +25,13 @@ cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Gr
 Lihan Hu, Jing Li, and Peng Jiang
 
 
-Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training. *NeurIPS 2022.* \
-Peng Jiang, Lihan Hu, Shihui Song 
-
-
 STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization. *SC 2022.* \
 Yihua Wei, Peng Jiang 
 
 
 
 Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs. *ICS 2022.* \
-Shihui Song, Peng Jiang 
-
-
-Accelerating Sparse CNN Inference on GPUs with Performance-Aware Weight Pruning. *PACT 2020.* \
-Masuma Akter Rumi, Xiaolong Ma, Yanzhi Wang, Peng Jiang 
+Shihui Song, Peng Jiang
 
 
 A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs. *PPoPP 2020.*  \
