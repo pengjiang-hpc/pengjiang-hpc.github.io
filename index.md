@@ -5,7 +5,7 @@ layout: default
 ## About Me
 I am an Assistant Professor in the Computer Science Department at the University of Iowa. My research interests generally lie in high-performance computing, systems, and machine learning. I received the NSF CAREER Award for research in compiler and runtime support for data-intensive applications on heterogeneous hardware.  
 
-I lead the [Parallel Programming Research Group](https://parallel-group.github.io/). Our group explores new programming techniques to simplify the development of high-performance and parallel programs for data science and machine learning applications. 
+I lead the [Make Programming Easier (MPEZ)](https://parallel-group.github.io/) Lab at UIowa. Our group explores new programming techniques to simplify the development of high-performance and parallel programs for data science and machine learning applications. 
 
 Check out our [Cuke compiler](https://cuke.dev/).
 
