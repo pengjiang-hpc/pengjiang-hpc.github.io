@@ -8,7 +8,7 @@ I am an Assistant Professor in the Computer Science Department at the University
 ___
 ## Software
 
-* [Cuke compiler](https://cuke.dev/pengjiang-hpc/cuke_demo/).
+* [Cuke compiler](https://cuke.dev/pengjiang-hpc/cuke_demo/)
 
 ___
 
