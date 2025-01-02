@@ -4,8 +4,7 @@ layout: default
 
 ## Publication
 
-<html>
-<table class="table">
+<table>
 <tbody>
 	<tr>
 		<td>
@@ -621,4 +620,3 @@ layout: default
 	</tr>
 </tbody>
 </table>
-</html>
