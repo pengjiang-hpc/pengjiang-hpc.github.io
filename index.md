@@ -20,7 +20,7 @@ ___
 
 ## Research
 
-### Selected Publications ([Full List](pubs.html))
+### Selected Publications ([Full List](./pubs.html))
 
 cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding. *IPDPS 2024.* \
 Lihan Hu, Jing Li, and Peng Jiang

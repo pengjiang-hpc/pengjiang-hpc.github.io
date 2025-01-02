@@ -1,31 +1,10 @@
+---
+layout: blog
+---
+
+## Publication
+
 <html>
-<head>
-<style>
-a {
-    color: #428bca;
-}
-
-td.publication {
-    padding: 0.8rem;
-}
-
-#main {
-    margin: auto;
-    width: 800px;
-}
-td {
-    padding-right: 1em;
-}
-body {
-    color: #212529;
-    font-size: small;
-}
-
-
-</style>
-</head>
-<body>
-<div id="main">
 <table class="table">
 <tbody>
 	<tr>
@@ -642,6 +621,4 @@ body {
 	</tr>
 </tbody>
 </table>
-</div>
-</body>
 </html>
