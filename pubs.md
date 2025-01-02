@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: blog
 ---
 
 ## Publication
 
-<table>
+<html>
+<table class="table">
 <tbody>
 	<tr>
 		<td>
@@ -620,3 +621,4 @@ layout: default
 	</tr>
 </tbody>
 </table>
+</html>
